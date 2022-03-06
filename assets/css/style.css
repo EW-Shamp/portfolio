@@ -1295,3 +1295,8 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.ccImg:hover {
+  box-shadow: 5px 6px 6px 2px #021324;
+  transform: scale(1.1)
+}
